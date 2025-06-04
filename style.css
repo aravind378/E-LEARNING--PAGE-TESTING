@@ -804,11 +804,11 @@ footer {
 @media screen and (min-width:320px) and (max-width:449px) {
 
     .child-1 {
-        padding-bottom: 70px;
+        padding-bottom: 90px;
     }
 
     .child-3 {
-        padding-top: 50px;
+        padding-top: 80px;
     }
 
      .sub-child-2 {
@@ -817,7 +817,7 @@ footer {
         justify-content: space-evenly;
         width: 100%;
         gap: 10px;
-        bottom: 0px;
+        bottom: -25px;
         z-index: 9;
     }
 
