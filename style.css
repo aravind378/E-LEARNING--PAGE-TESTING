@@ -939,7 +939,7 @@ footer {
         flex-direction: column;
         gap: 15px;
         width: 100%;
-        min-height: 40vh;
+        min-height: 35vh;
     }
     .mobile-sub-four-points {
         display: flex;
